@@ -1,0 +1,23 @@
+[
+    {
+        "frase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "nombre": "Ricardo Melida",
+        "subtitulo": "Alumno",
+        "twitter": "@MelidaRicardo",
+        "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-e1480.appspot.com/o/team-1.jpg?alt=media&token=84690c3a-18ee-4f96-93a9-10c83d2bffa2"
+    },
+    {
+        "frase": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+        "nombre": "Anahi Encina",
+        "subtitulo": "profesora",
+        "twitter": "@AnahiEncina1",
+        "url": "gs://angular-html-e1480.appspot.com/team-2.jpg"
+    },
+    {
+        "frase": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "nombre": "Fernando Herrera",
+        "subtitulo": "maestro",
+        "twitter": "@Fernando_Her85",
+        "url": "gs://angular-html-e1480.appspot.com/team-3.jpg"
+    }
+]
